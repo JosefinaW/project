@@ -64,6 +64,5 @@ with(mtcars, plot(hp, mpg))
 
 There is `r nrow(mtcars)` cars.
 
-```{python}
-print("Hello World! Python here, do you miss R already?")
-```
+
+
